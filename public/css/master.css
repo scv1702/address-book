@@ -1,0 +1,18 @@
+.contact .contact-form,
+.contact-index ul {
+    max-width: 500px;
+}
+
+.contact h2 {
+    color: dodgerblue;
+}
+
+.contact .contact-form label,
+.contact-show label {
+    display: inline-block;
+    width: 70px;
+}
+
+.contact .contact-menu form {
+    display: inline-block;
+}

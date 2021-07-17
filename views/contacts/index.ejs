@@ -1,19 +1,25 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <%- include('../partials/head') %>
-    </head>
-    <body>
-        <%- include('../partials/nav') %>
-        <div class="contact contact-index">
+
+<head>
+    <%- include('../partials/head') %>
+</head>
+
+<body>
+    <%- include('../partials/nav') %>
+
+        <div class="container contact contact-index">
             <h2>Index</h2>
-            <ul>
-                <% contacts.forEach((contact) => { %>
-                    <li>
-                        <a href="/contacts/<%= contact._id %>"><%= contact.name %></a>
+            <ul class="list-group">
+                <% contacts.forEach(function(contact) { %>
+                    <li class="list-group-item">
+                        <a href="/contacts/<%= contact._id %>">
+                            <%= contact.name %>
+                        </a>
                     </li>
-                <% }) %>
+                    <% }) %>
             </ul>
         </div>
-    </body>
+</body>
+
 </html>
