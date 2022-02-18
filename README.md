@@ -1,5 +1,6 @@
 # address-book
-Simple address book web app based on express, mongoDB
+![License](https://img.shields.io/badge/Licence-MIT-blue.svg)<br>
+Simple address book web app based on Node.js Express, mongoDB
 
 ## How to exeucte
 1. Clone the repository
