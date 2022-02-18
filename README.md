@@ -11,24 +11,24 @@ Simple address book web app based on Node.js Express, mongoDB
 git clone https://github.com/scv1702/address-book/
 ```
 
-3. You have to register the mongoDB Atlas connection string in the `MONGO_DB` environment variable.
+2. You have to register the mongoDB Atlas connection string in the `MONGO_DB` environment variable.
 
-2. Change the directory to ```address-book```
+3. Change the directory to ```address-book```
 ```
 cd address-book
 ```
 
-3. Install dependencies from `package.json`
+4. Install dependencies from `package.json`
 ```
 npm install
 ```
 
-4. Execute `index.js`
+5. Execute `index.js`
 ```
 node index.js
 ```
 
-4. Go to `https://localhost:3000`
+6. Go to `https://localhost:3000`
 
 ## Contact
 You can contact me via e-mail (scv1702 at gmail.com).
