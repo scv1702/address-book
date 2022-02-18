@@ -1,8 +1,8 @@
 # address-book
 ![License](https://img.shields.io/badge/Licence-MIT-blue.svg)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg)
+![Express](https://img.shields.io/badge/Express-000000.svg)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg)<br>
 Simple address book web app based on Node.js Express, mongoDB
 
 ## How to exeucte
